@@ -1,0 +1,26 @@
+_repo: Rondah-or-thirty-three-years-in-a-star_69461
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dieudonné, Florence Carpenter
+    gutenberg_agent_id: '55279'
+    url: http://www.gutenberg.org/2009/agents/55279
+description: ''
+gutenberg_issued: '2022-12-03'
+identifiers:
+  gutenberg: '69461'
+language: en
+pgterms:marc904: http://catalog.hathitrust.org/Record/100594761
+pgterms:marc905: 20190602144700dieudonne
+pgterms:marc906: '1887'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: 'United States: T. B. Peterson & brothers,1887.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Rondah;: or, thirty-three years in a star'
+url: http://www.gutenberg.org/ebooks/69461
